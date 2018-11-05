@@ -4,3 +4,4 @@ watson-developer-cloud>=2.2.6
 PyAudio
 click
 flask
+face_recognition
