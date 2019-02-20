@@ -1,3 +1,12 @@
+[![Build Status](https://travis-ci.org/ro-boy/ravestate.svg?branch=master)](https://travis-ci.org/ro-boy/ravestate)
+[![codecov](https://codecov.io/gh/ro-boy/ravestate/branch/master/graph/badge.svg)](https://codecov.io/gh/ro-boy/ravestate)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93ebb2077393423496669b5657ab16ac)](https://www.codacy.com/app/ro-boy/ravestate)
+[![Code size](https://img.shields.io/github/languages/code-size/Roboy/ravestate.svg)](https://github.com/ro-boy/ravestate)
+[![Repo size](https://img.shields.io/github/repo-size/Roboy/ravestate.svg)](https://github.com/ro-boy/ravestate)
+[![Python version](https://img.shields.io/pypi/pyversions/ravestate.svg)](https://github.com/ro-boy/ravestate)
+[![Release](https://img.shields.io/github/release/Roboy/ravestate.svg)](https://github.com/ro-boy/ravestate)
+[![PyPi Downloads](https://img.shields.io/pypi/dm/ravestate.svg)](https://github.com/ro-boy/ravestate)
+
 ```
                                  _ __    _ __     
     _ ___ ____  __  ______  ______/ /_____/ /___     
